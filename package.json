@@ -1,0 +1,24 @@
+{
+  "name": "wilder",
+  "version": "1.0.0",
+  "description": "color name wilder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricefab02/wilder.git"
+  },
+  "author": "Fabrice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricefab02/wilder/issues"
+  },
+  "homepage": "https://github.com/Ricefab02/wilder#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "start": "^5.1.0"
+  }
+}
